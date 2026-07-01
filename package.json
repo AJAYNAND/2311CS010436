@@ -1,0 +1,23 @@
+{
+  "name": "campus-evaluation-be-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJAYNAND/2311CS010436.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJAYNAND/2311CS010436/issues"
+  },
+  "homepage": "https://github.com/AJAYNAND/2311CS010436#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
